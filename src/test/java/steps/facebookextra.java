@@ -11,7 +11,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class facebookextra {
+public class Facebookextra {
 	WebDriver driver;
 	@Given("User enter the chrome browser and navigate the facebook page")
 	public void user_enter_the_chrome_browser_and_navigate_the_facebook_page() {
