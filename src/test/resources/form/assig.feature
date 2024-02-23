@@ -15,6 +15,6 @@ Feature: Data driven testing for gov website
       |Username    | E-mail address | First Name |Last Name|Country   |State   |PIN_Code|Education                           |text  |
       |arohi       | aro@gmail.com  | Arohi      |thorat   |India     |Goa     |416405  |Elementary Education                |Hii   |
       |aks>hata    |aksh@gmail.com  | Akshata    |pandhare |India     |Assam   | 123345 |Graduate/Post Graduate-Professional |Hell  |
-      |shantanu    |sss@gmail.com   |Shantanu    |shinde   |India     |Delhi   |987654  |Vocational                          |why   |
+      |shantanu    |sbs@gmail.com   |Shantanu    |shinde   |India     |Delhi   |987654  |Vocational                          |why   |
       |ruhi        |ruhi@gmail.com  |Ruhi        |shinde   |India     |Bihar   | 345678 |Higher Secondary Education          | What |
       |vani        |vani@gmail.com  |Vani        |supane   |India     |Kerla   | 543789 |Secondary Education                 |Than  |
